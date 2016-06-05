@@ -3,5 +3,6 @@
 ## classification 
 - logistic regression
 - softmax
+
 ## clustering
 - kmeans
